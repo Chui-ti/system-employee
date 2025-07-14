@@ -25,18 +25,17 @@
    mvn exec:java -Dexec.mainClass="org.example.Main
 
 ## Структура проекта
-
-src/
-└── main/
-    └── java/
-        └── org/
-            └── example/
-                ├── Employee.java
-                ├── Developer.java
-                ├── Manager.java
-                ├── Intern.java
-                └── Main.java
-
+<pre> src/
+   └── main/
+       └── java/
+           └── org/
+               └── example/
+                   ├── Employee.java
+                   ├── Developer.java
+                   ├── Manager.java
+                   ├── Intern.java
+                   └── Main.java
+ </pre>
 
 ## Автор 
 София Подобрий — начинающий Java-разработчик, активно изучаю Java Core, Spring, SQL и Git.
