@@ -15,16 +15,17 @@
 
 1. Убедитесь, что у вас установлен Java (8 или новее) и Maven.
 2. Склонируйте репозиторий:
-   
+   ```bash
    git clone https://github.com/Chui-ti/system-employee.git
    cd employee-system
 
 3. Соберите и запустите проект
-   
+   ```bash
    mvn compile
    mvn exec:java -Dexec.mainClass="org.example.Main
 
 ## Структура проекта
+
 src/
 └── main/
     └── java/
@@ -36,5 +37,6 @@ src/
                 ├── Intern.java
                 └── Main.java
 
-##Автор 
+
+## Автор 
 София Подобрий — начинающий Java-разработчик, активно изучаю Java Core, Spring, SQL и Git.
